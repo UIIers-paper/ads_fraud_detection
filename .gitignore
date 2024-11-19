@@ -8,3 +8,5 @@ __pyache__
 *.joblib
 *.h5
 *.keras
+*.jpg
+
