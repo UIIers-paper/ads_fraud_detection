@@ -1,3 +1,4 @@
+*.png
 *.zip
 *.csv
 *.xlsx
@@ -7,5 +8,5 @@ __pyache__
 *.joblib
 *.h5
 *.keras
-*.png
 *.jpg
+
